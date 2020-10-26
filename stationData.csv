@@ -1,0 +1,395 @@
+stationName,stationId
+San Francisco Public Library (Grove St at Hyde St),43.0
+Dolores St at 15th St,96.0
+Downtown Berkeley BART,245.0
+Powell St BART Station (Market St at 5th St),5.0
+Fulton St at Bancroft Way,247.0
+San Francisco Caltrain (Townsend St at 4th St),30.0
+Addison St at Fourth St,259.0
+Yerba Buena Center for the Arts (Howard St at 3rd St),284.0
+Mechanics Monument Plaza (Market St at Bush St),20.0
+Howard St at Beale St,22.0
+Spear St at Folsom St,24.0
+The Embarcadero at Steuart St,23.0
+Beale St at Harrison St,27.0
+San Francisco Ferry Building (Harry Bridges Plaza),15.0
+Folsom St at 19th St,123.0
+5th St at Virginia St,296.0
+The Embarcadero at Sansome St,6.0
+Folsom St at 15th St,99.0
+Clay St at Battery St,14.0
+Davis St at Jackson St,11.0
+14th St at Mandela Pkwy,230.0
+Market St at Dolores St,86.0
+Santa Clara St at Almaden Blvd,314.0
+Bay Pl at Vernon St,195.0
+Victoria Manalo Draves Park,62.0
+Steuart St at Market St,16.0
+The Embarcadero at Vallejo St,8.0
+Mission Dolores Park,120.0
+Valencia St at 24th St,134.0
+College Ave at Taft Ave,172.0
+Montgomery St BART Station (Market St at 2nd St),21.0
+Valencia St at 22nd St,133.0
+Koshland Park,56.0
+30th St at San Jose Ave,146.0
+Jersey St at Castro St,137.0
+24th St at Market St,159.0
+3rd St at Townsend St,66.0
+20th St at Bryant St,125.0
+Valencia St at Cesar Chavez St,141.0
+McCoppin St at Valencia St,76.0
+Powell St BART Station (Market St at 4th St),3.0
+Berry St at 4th St,81.0
+Frank H Ogawa Plaza,7.0
+Lake Merritt BART Station,163.0
+7th St at Brannan St,79.0
+Lakeshore Ave at Trestle Glen Rd,194.0
+Golden Gate Ave at Polk St,41.0
+McAllister St at Baker St,52.0
+19th St at Mission St,122.0
+2nd St at Folsom St,37.0
+11th St at Bryant St,88.0
+Cahill Park,35.0
+MLK Jr Way at 14th St,232.0
+14th St at Mission St,97.0
+The Embarcadero at Bryant St,28.0
+San Francisco City Hall (Polk St at Grove St),42.0
+El Embarcadero at Grand Ave,197.0
+Shattuck Ave at Hearst Ave,244.0
+Embarcadero BART Station (Beale St at Market St),17.0
+Morrison Ave at Julian St,277.0
+Garfield Square (25th St at Harrison St),139.0
+11th St at Natoma St,77.0
+Esprit Park,126.0
+Derby St at College Ave,267.0
+West Oakland BART Station,160.0
+Washington St at 8th St,202.0
+Mission Playground,121.0
+Snow Park,198.0
+Father Alfred E Boeddeker Park,34.0
+19th Street BART Station,182.0
+2nd St at S Park St,48.0
+Eureka Valley Recreation Center,118.0
+2nd Ave at E 18th St,200.0
+University Ave at Oxford St,258.0
+Jackson Playground,115.0
+O'Farrell St at Divisadero St,29.0
+45th St at Manila,210.0
+Webster St at O'Farrell St,285.0
+Howard St at 8th St,61.0
+21st Ave at International Blvd,224.0
+San Salvador St at 1st St,316.0
+Post St at Kearny St,19.0
+Central Ave at Fell St,70.0
+19th St at Florida St,124.0
+SAP Center,307.0
+18th St at Noe St,119.0
+Telegraph Ave at 19th St,183.0
+The Alameda at Bush St,278.0
+Telegraph Ave at Ashby Ave,248.0
+Telegraph Ave at Carleton St,269.0
+San Salvador St at 9th St,317.0
+Page St at Scott St,72.0
+Commercial St at Montgomery St,13.0
+29th St at Church St,145.0
+Golden Gate Ave at Hyde St,33.0
+5th St at Howard St,45.0
+4th St at Mission Bay Blvd S,93.0
+Laguna St at Hayes St,74.0
+S Van Ness Ave at Market St,59.0
+Civic Center/UN Plaza BART Station (Market St at McAllister St),44.0
+Scott St at Golden Gate Ave,39.0
+Union Square (Powell St at Post St),324.0
+MacArthur BART Station,176.0
+Lakeside Dr at 14th St,186.0
+Townsend St at 7th St,90.0
+16th St Mission BART Station 2,223.0
+Locust St at Grant St,297.0
+Genoa St at 55th St,189.0
+Telegraph Ave at Alcatraz Ave,18.0
+Market St at 10th St,58.0
+San Fernando St at 4th St,310.0
+Market St at Franklin St,75.0
+Shattuck Ave at 55th Ave,173.0
+Division St at Potrero Ave,89.0
+Mississippi St at 17th St,116.0
+Washington St at Kearny St,10.0
+Valencia St at 16th St,98.0
+12th St at 4th Ave,233.0
+Harrison St at 17th St,112.0
+Rhode Island St at 17th St,114.0
+Russell St at College Ave,249.0
+Berkeley Civic Center,246.0
+Folsom St at 3rd St,36.0
+San Carlos St at Market St,318.0
+65th St at Hollis St,157.0
+Paseo De San Antonio at 2nd St,311.0
+17th St at Valencia St,109.0
+Union St at 10th St,235.0
+Bryant St at 15th St,100.0
+Sanchez St at 15th St,95.0
+Vine St at Shattuck Ave,254.0
+5th St at Brannan St,64.0
+Bancroft Way at Telegraph Ave,239.0
+45th St at MLK Jr Way,209.0
+Webster St at 19th St,337.0
+29th St at Tiffany Ave,147.0
+San Francisco Caltrain Station 2  (Townsend St at 4th St),67.0
+14th St at Filbert St,231.0
+Cyril Magnin St at Ellis St,4.0
+22nd St Caltrain Station,130.0
+8th St at Ringold St,60.0
+5th at Folsom,321.0
+Church St at Duboce Ave,85.0
+Franklin St at 9th St,162.0
+Webster St at Grove St,55.0
+Willow St at Vine St,301.0
+Grand Ave at Perkins St,196.0
+Townsend St at 5th St,80.0
+Broadway at 30th St,178.0
+Broadway at Kearny,323.0
+1st St at Folsom St,26.0
+Laguna St at McAllister St,40.0
+16th St at Prosper St,105.0
+4th St at Harrison St,47.0
+MLK Jr Way at University Ave,238.0
+San Carlos St at 11th St,286.0
+Fruitvale BART Station,237.0
+Pierce Ave at Market St,294.0
+Broadway at 40th St,211.0
+Shattuck Ave at Telegraph Ave,158.0
+49th St at Telegraph Ave,175.0
+16th St Mission BART,108.0
+Horton St at 40th St,148.0
+Grand Ave at Santa Clara Ave,193.0
+Grove St at Divisadero,53.0
+Adeline St at 40th St,150.0
+S Park St at 3rd St,49.0
+Stanford Ave at Hollis St,156.0
+Howard St at 2nd St,25.0
+College Ave at Harwood Ave,167.0
+Channing Way at San Pablo Ave,263.0
+Precita Park,144.0
+Dover St at 57th St,188.0
+17th & Folsom Street Park (17th St at Folsom St),110.0
+47th St at San Pablo Ave,152.0
+Ninth St at Heinz Ave,270.0
+Telegraph Ave at 23rd St,180.0
+Valencia St at 21st St,127.0
+Folsom St at 9th St,78.0
+Grand Ave at Webster St,181.0
+Broadway at Battery St,9.0
+Harrison St at 20th St,129.0
+17th St at Dolores St,107.0
+San Antonio Park,46.0
+Market St at 40th St,191.0
+Santa Clara St at 7th St,279.0
+12th St at 6th Ave,221.0
+North Berkeley BART Station,250.0
+Parker St at Fulton St,266.0
+59th St at Horton St,153.0
+Autumn Parkway at Coleman Ave,291.0
+Telegraph Ave at 58th St,170.0
+Broderick St at Oak St,71.0
+Market St at Park St,282.0
+37th St at West St,192.0
+24th St at Chattanooga St,132.0
+Raymond Kimbell Playground,31.0
+Sanchez St at 17th St,106.0
+West St at 40th St,190.0
+Shattuck Ave at 51st St,174.0
+Bryant St at 6th St,63.0
+9th St at San Fernando,281.0
+32nd St at Adeline St,213.0
+California St at University Ave,251.0
+5th St at San Salvador St,327.0
+Ashby BART Station,241.0
+Franklin Square,113.0
+Emeryville Town Hall,149.0
+Oregon St at Adeline St,274.0
+Irwin St at 8th St,102.0
+Foothill Blvd at Fruitvale Ave,227.0
+S. 4th St at San Carlos St,208.0
+San Bruno Ave at 16th St,101.0
+San Pablo Ave at 27th St,216.0
+Isabella St at San Pablo Ave,164.0
+Market St at Brockhurst St,214.0
+10th Ave at E 15th St,222.0
+San Pedro Square,308.0
+San Jose Diridon Station,312.0
+10th St at Fallon St,201.0
+Julian St at The Alameda,276.0
+Jackson St at 5th St,304.0
+26th Ave at International Blvd,226.0
+Duboce Park,84.0
+Jackson St at 11th St,339.0
+Telegraph Ave at 27th St,179.0
+Broadway at Coronado Ave,207.0
+34th St at Telegraph Ave,215.0
+Bushrod Park,169.0
+Bancroft Way at College Ave,243.0
+Harmon St at Adeline St,340.0
+Jersey St at Church St,138.0
+San Fernando at 7th St,280.0
+Julian St at 6th St,275.0
+Shafter Ave at Cavour St,205.0
+San Pablo Ave at MLK Jr Way,220.0
+Bestor Art Park,299.0
+William St at 10th St,295.0
+DeFremery Park,218.0
+Saint James Park,306.0
+Haste St at Telegraph Ave,240.0
+Ryland Park,305.0
+53rd St at Hollis St,151.0
+Mosswood Park,212.0
+W St John St at Guadalupe River Trail,293.0
+MacArthur Blvd at Telegraph Ave,177.0
+13th St at Franklin St,338.0
+55th St at Telegraph Ave,204.0
+Almaden Blvd at Balbach St,287.0
+Mission St at 1st St,288.0
+Fruitvale Ave at International Blvd,234.0
+Doyle St at 59th St,154.0
+Almaden Blvd at San Fernando St,313.0
+Ninth St at Parker St,265.0
+San Jose City Hall,309.0
+Marston Campbell Park,219.0
+Palm St at Willow St,300.0
+College Ave at Bryant Ave,206.0
+Cesar Chavez St at Dolores St,140.0
+Ellsworth St at Russell St,268.0
+5th St at Taylor St,289.0
+George St at 1st St,290.0
+Foothill Blvd at Harrington Ave,228.0
+Delmas Ave and San Fernando St,283.0
+Empire St at 1st St,292.0
+Market St at 8th St,236.0
+Foothill Blvd at 42nd Ave,229.0
+2nd St at Townsend St - Coming Soon,50.0
+Webster St at 17th St,199.0
+Franklin St at 14th St,184.0
+Jackson St at 14th St,185.0
+Dolores St at 22nd St,131.0
+Rockridge BART Station,171.0
+Potrero Ave and Mariposa St,336.0
+23rd Ave at Foothill Blvd,225.0
+Colin P Kelly Jr St at Townsend St (Temporary Site),342.0
+Fountain Alley at S 2nd St,341.0
+College Ave at Alcatraz Ave,166.0
+Woolsey St at Sacramento St,272.0
+Hearst Ave at Euclid Ave,256.0
+27th St at MLK Jr Way,217.0
+Oak St at 1st St,298.0
+Pierce St at Haight St,73.0
+Milvia St at Derby St,242.0
+Market St at 45th St,315.0
+Emeryville Public Market,155.0
+Jack London Square,187.0
+Webster St at 2nd St,203.0
+Channing Way at Shattuck Ave,252.0
+Bryant St at 2nd St,343.0
+Alcatraz Ave at Shattuck Ave,168.0
+Virginia St at Shattuck Ave,255.0
+San Pedro St at Hedding St,303.0
+Fulton St at Ashby Ave,273.0
+Tamien Station,302.0
+2nd St at Townsend St,50.0
+Hubbell St at 16th St,345.0
+San Pablo Park,271.0
+16th St Depot,344.0
+8th St at Brannan St,350.0
+Howard St at Mary St,349.0
+Valencia St at Clinton Park,356.0
+Haste St at College Ave,253.0
+Mission Bay Kids Park,92.0
+Shattuck Ave at 55th St,173.0
+Folsom St at 13th St,87.0
+Berry St at King St,91.0
+4th St at 16th St,104.0
+23rd St at Tennessee St,355.0
+Fifth St at Delaware St,257.0
+West St at University Ave,262.0
+10th St at University Ave,351.0
+23rd St and San Bruno Ave,347.0
+2nd St at Julian St,357.0
+Miles Ave at Cavour St (Temporary Location),205.0
+5th St at Folsom,321.0
+E 12th St at 6th Ave,221.0
+William St at 4th St (Temporary Location),208.0
+MLK Jr Way at 36th St (Temporary Location),192.0
+Salesforce Transit Center (Natoma St at 2nd St),363.0
+6th St at San Fernando St (Temporary Location),280.0
+Mission Rock St at 3rd St,364.0
+Potrero Ave at 15th St (Temporary Location),101.0
+E 12th St at 4th Ave,233.0
+Turk St at Fillmore St,365.0
+Outside Lands 2018 (Temporary Station),367.0
+Miles Ave at Cavour St,205.0
+6th Ave at E 12th St (Temporary Location),221.0
+Lane St at Revere Ave,362.0
+Madison St at 17th St,372.0
+23rd St at San Bruno Ave,136.0
+4th Ave at E 12th St (Temporary Location),233.0
+9th St at San Fernando St,281.0
+Williams Ave at Apollo St,359.0
+Lane St at Van Dyke Ave,358.0
+Webster St at MacArthur Blvd (Temporary Location),212.0
+Newhall St at 3rd St,360.0
+Mendell St at Fairfax Ave,361.0
+Viva Calle SJ,374.0
+Myrtle St at Polk St,368.0
+Grove St at Masonic Ave,375.0
+Hyde St at Post St,369.0
+Lombard St at Columbus Ave,371.0
+Potrero del Sol Park (25th St at Utah St),373.0
+Jones St at Post St,370.0
+Empire St at 7th St,378.0
+20th St at Dolores St,381.0
+Fell St at Stanyan St,377.0
+Guerrero Park,142.0
+Williams Ave at 3rd St,358.0
+Farnam St at Fruitvale Ave,234.0
+Woolsey St at Sacramento St1,272.0
+Masonic Ave at Turk St,380.0
+Woolsey St at Sacramento St,385.0
+China Basin St at 3rd St,364.0
+22nd St at Dolores St,131.0
+15th St at Potrero Ave,101.0
+Alamo Square (Steiner St at Fulton St),54.0
+San Fernando St at 7th St,280.0
+Golden Gate Ave at Franklin St,383.0
+24th St at Bartlett St,386.0
+Leavenworth St at Broadway,398.0
+Backesto Park (Jackson St at 13th St),388.0
+Parker Ave at McAllister St,51.0
+Taylor St at 9th St,389.0
+Randall St at Chenery St,387.0
+Gish Rd at 1st St,397.0
+Buchanan St at North Point St,400.0
+Jackson St at Polk St,384.0
+Bay St at Fillmore St,399.0
+Asbury St at The Alameda,393.0
+Indiana St at Cesar Chavez St,390.0
+Bird Ave at Coe Ave,407.0
+Skyport Dr at Technology Dr,401.0
+10th St at Mission St,403.0
+Goettingen St at Bacon St,352.0
+10th St at Empire St,394.0
+Kerley Dr at Rosemary St,395.0
+Sonora Ave at 1st St,392.0
+Sunol St at San Carlos St,405.0
+Raymond Bernal Jr Memorial Park (8th St at Hedding St),402.0
+Metro Dr at Technology Dr,396.0
+Illinois St at 20th St,376.0
+2100 Powell St,409.0
+Auzerais Ave at Los Gatos Creek Trail,416.0
+Octavia Blvd at Page St,411.0
+Illinois St at Cesar Chavez St,410.0
+Glen Park BART Station,412.0
+SF Test Station,420.0
+Delmas Ave at Virginia St,415.0
+Parkmoor Ave at Race St,406.0
+Park Ave at Race St,417.0
+17th St at Santa Clara St,418.0
+1st St at Younger Ave,391.0
