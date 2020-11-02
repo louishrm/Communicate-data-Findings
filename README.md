@@ -2,7 +2,11 @@
 
 ## Introduction
 
-The goal of this project was to conduct and exploratory data analysis of the Ford GoBike dataset which can he found [here](https://www.kaggle.com/victorinoeng/fordgobike20172019?select=Clean_FordGoBike_2017_2019.csv). It is too big so I couldn't attach it in the repository. There is also a complimentary .csv file which links station ID to station name. First, the data is assessed and cleaned, then a univariate, bivariate and multivariate exploration are done. 
+### Data overview 
+The goal of this project was to conduct and exploratory data analysis of the Ford GoBike dataset which can he found [here](https://www.kaggle.com/victorinoeng/fordgobike20172019?select=Clean_FordGoBike_2017_2019.csv)(It is too big so I couldn't attach it in the repository). The file contains information on over 3023992 rented bike trips between 2017-2019. There is also a complimentary .csv file which links station ID to station name. These bikes can be found at various stations in the San Francisco Bay area and are usually acitivated via a phone app. More information is available on the [Bay Wheels FAQ page](https://help.baywheels.com/hc/en-us). 
+
+### Main steps
+First, the data is assessed and cleaned, then a univariate, bivariate and multivariate exploration are done. 
 
 ## Assessment and Cleaning 
 
@@ -46,7 +50,13 @@ By comparing the number of bike trips made per hour of the day to the number of 
 
 ## Multivariate exploration of data
 
-In this part, the relationship between average trip speed, user age and gender is examined. 
+### 1. Do subscribers and non subscribers rent bikes for the same purposes? 
+We notice that there is a huge class imbalance in our dataset: there are almost 10 times more subscribers than non subscribers. Therefore, we are unsure whether the previous conclusion that bikes are mainly rented for work applies only to a certain user type. By taking a closer look, we can observe that while subscribers rent bikes during the week at traditional commute times, non subscribers mostly rent bikes on the week-end in the afternoon. This could indicate that non subscribers make bike trips for leisure.
 
+### 2. Is there a correlation between average trip speed , user age and gender? 
 The first step was to convert the start and end coordinates to distance on the surface of the earth. To do this, I created a function that uses the Haversine formula to find this value. I then created a new column which contained the trip speed. Then, I made a set of age intervals to plot a histogram. On the graph, it is apparent that the average the averge trip speed for men is slightly higher than for women over all age brackets. We also see that the fastest riders are in the age bracket 25-50 years. Finally, we observe that overall, travel speed declines from the age of 50 onwards for both genders.
+
+### 3. Number of bike trips by user type and user gender
+Overall, we see that overall men rent more bikes than women over both user type brackets. 
+
 
