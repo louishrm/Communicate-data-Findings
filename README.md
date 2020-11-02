@@ -60,3 +60,5 @@ The first step was to convert the start and end coordinates to distance on the s
 Overall, we see that overall men rent more bikes than women over both user type brackets. 
 
 
+## Main insights 
+The most significant insight which stems from this data analysis is that subcribers use bikes for work travel whereas non subscribers use bikes for leisure trips on the week-ends. This type of information can be used to implement different marketing strategies based on the user type. For example, single trip week-end discounts could be offered to incite more non subscribers to go for a ride. For people who would like to use the bikes to go to work, a weekday only package which allows for two trips per week day could be proposed (which is cheaper than the regular subscription) to increase the customer base. 
